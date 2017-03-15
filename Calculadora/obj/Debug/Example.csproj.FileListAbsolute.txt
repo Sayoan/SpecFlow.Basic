@@ -1,0 +1,4 @@
+C:\Users\Saymon\Desktop\SpecFlow.Basic\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Saymon\Desktop\SpecFlow.Basic\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\Calculadora\obj\Debug\Calculadora.pdb

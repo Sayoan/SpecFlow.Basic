@@ -1,0 +1,13 @@
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\obj\Debug\SpecFlow.Basic.csprojResolveAssemblyReference.cache
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\SpecFlow.Basic.dll.config
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\SpecFlow.Basic.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\SpecFlow.Basic.pdb
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\nunit.framework.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\nunit.framework.xml
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\obj\Debug\SpecFlow.Basic.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\obj\Debug\SpecFlow.Basic.pdb
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\Calculadora.dll
+C:\Users\Saymon\Desktop\SpecFlow.Basic\SpecFlow.Basic\bin\Debug\Calculadora.pdb
